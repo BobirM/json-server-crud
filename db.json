@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abrors",
+      "email": "abrors@gmail.com",
+      "phone": "99888888411"
+    },
+    {
+      "id": 2,
+      "name": "Baja",
+      "email": "abrosr@gmail.com",
+      "phone": 9988888849
+    },
+    {
+      "name": "Bobir",
+      "email": "bobir@GMAIL.COM",
+      "phone": "988955552",
+      "id": 3
+    },
+    {
+      "name": "TEST",
+      "email": "test@gmail.com",
+      "phone": "988898555",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "email": "h",
+      "phone": "48888"
+    },
+    {
+      "name": "hkadjbakf",
+      "email": "hgjdavwhjfj",
+      "phone": "151151f21",
+      "id": 6
+    },
+    {
+      "name": "qwqw",
+      "email": "wqeqw@ada",
+      "phone": "12",
+      "id": 7
+    }
+  ]
+}
